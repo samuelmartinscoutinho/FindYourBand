@@ -1,0 +1,2 @@
+rootProject.name='FindYourBand'
+include ':app'
